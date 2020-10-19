@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Learn ASP.NET\\BookListRazor\\BookListRazor\\BookListRazor.csproj": {}
+    "H:\\Learn-ASP.NET\\BookListRazor\\BookListRazor\\BookListRazor.csproj": {}
   },
   "projects": {
-    "C:\\Learn ASP.NET\\BookListRazor\\BookListRazor\\BookListRazor.csproj": {
+    "H:\\Learn-ASP.NET\\BookListRazor\\BookListRazor\\BookListRazor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Learn ASP.NET\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+        "projectUniqueName": "H:\\Learn-ASP.NET\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
         "projectName": "BookListRazor",
-        "projectPath": "C:\\Learn ASP.NET\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
-        "packagesPath": "C:\\Users\\Zlato\\.nuget\\packages\\",
-        "outputPath": "C:\\Learn ASP.NET\\BookListRazor\\BookListRazor\\obj\\",
+        "projectPath": "H:\\Learn-ASP.NET\\BookListRazor\\BookListRazor\\BookListRazor.csproj",
+        "packagesPath": "C:\\Users\\Zlat\\.nuget\\packages\\",
+        "outputPath": "H:\\Learn-ASP.NET\\BookListRazor\\BookListRazor\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "G:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Zlato\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Zlat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
